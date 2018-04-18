@@ -9,4 +9,4 @@ FSuhov
 
 ## It is supposed to contain several commits:
 * Setting up project
-* Start
+* Setting up Git repo
